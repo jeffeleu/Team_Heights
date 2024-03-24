@@ -24,4 +24,4 @@ Based on the collected data and analysis, the following conclusions were drawn:
 
 **Overall Comparison**: When comparing the average heights of all players, regardless of gender, the volleyball players have an average height of 69.75 inches, whereas the swimmers have an average height of 67.5 inches. The volleyball players, on average, are taller than the swimmers by 2.25 inches.
 # Conclusion
-The analysis reveals that, on average, Baruch varsity volleyball players are taller than their swimming counterparts. The marketing company's question regarding the average height difference between varsity swimming and volleyball teams is answered: the volleyball players are taller than the swimmers by approximately 2.25 inches. 
+The analysis reveals that, on average, Baruch varsity volleyball players are taller than their swimming counterparts by approximately 2.25 inches. 
