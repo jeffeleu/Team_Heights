@@ -1,5 +1,5 @@
-# Team_Heights
-# Introduction
+# Team Heights
+# Objective
 This project aims to provide a data-driven solution to determine whether CUNY Baruch varsity swimmers are taller on average than their volleyball counterparts. The solution involves web scraping to collect height data from men's and women's swimming and volleyball teams, followed by analysis to calculate average heights and draw conclusions.
 
 # Methodology
